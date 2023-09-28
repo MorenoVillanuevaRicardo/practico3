@@ -32,7 +32,7 @@ En la parte superior derecha, se muestra un boton que nos llevara a reiniciar el
 
 Siguiendo las instrucciones, el jugador "selecciona" una de las opciones, haciendo click sobre ella, en este ejemplo se elegira tijera
 
-<img src="images/imagenesprueba/opcionElegida.png" alt="opcion elegida por el jugador" >
+<img src="./src/Componentes/imagenes-readme/foto4.png" alt="opcion elegida por el jugador" >
 
 Una vez seleccionada la opcion, sera la unica opcion que quede visible; en el lado del jugador se imprimira  cual fue la opcion seleccionada; de manera paralela se obtiene la opcion de la computadora
     
